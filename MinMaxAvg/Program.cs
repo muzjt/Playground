@@ -19,7 +19,7 @@ for (int i = 0; i < numbers.Length; i++)
     sum += numbers[i];
 }
 
-float avg = (float)sum / max;
+float avg = (float)sum / numbers.Length;
 
 Console.WriteLine($"Min number is {min}");
 Console.WriteLine($"Max number is {max}");
