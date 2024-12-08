@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySorter", "ArraySorter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleValidator", "TriangleValidator\TriangleValidator.csproj", "{6026B3BA-E7C9-47B7-8DCC-02BDD69D3F18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcOne", "CalcOne\CalcOne.csproj", "{B0364ACE-AA9B-4F57-9A63-050ED9B0589C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6026B3BA-E7C9-47B7-8DCC-02BDD69D3F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6026B3BA-E7C9-47B7-8DCC-02BDD69D3F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6026B3BA-E7C9-47B7-8DCC-02BDD69D3F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0364ACE-AA9B-4F57-9A63-050ED9B0589C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0364ACE-AA9B-4F57-9A63-050ED9B0589C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0364ACE-AA9B-4F57-9A63-050ED9B0589C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0364ACE-AA9B-4F57-9A63-050ED9B0589C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
