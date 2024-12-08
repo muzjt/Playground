@@ -26,6 +26,8 @@ switch (action)
     case '/':
         result = number1 / number2;
         break;
+    default:
+        throw new Exception("Input wasn't exactly +, -, * or /.");
 }
 
 Console.WriteLine($"You have chosen \'{action}\' operator and the result is {result:N2}.");
